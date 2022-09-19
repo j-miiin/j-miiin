@@ -3,7 +3,6 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFBC97&height=130&section=header&text=j-miiin&desc=Android%20Developer&descAlign=80&descAlignY=70&animation=twinkling&fontColor=fff&fontSize=60)
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=FFBC97&height=130&section=header&text=j-miiin&desc=Android%20Developer&descAlign=80&descAlignY=70&animation=twinkling&fontColor=FFBC97&fontSize=60)
 
 <br></br>
