@@ -23,12 +23,6 @@
 
 <br></br>
 
-<a href="https://github.com/j-miiin/BreakingCodingTest"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j-miiin&repo=BreakingCodingTest&theme=moltack" /></a> <a href="https://github.com/j-miiin/PLETO_FRONT"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j-miiin&repo=PLETO_FRONT&theme=moltack" /></a>
-
-</a> <a href="https://github.com/j-miiin/LOOKIE_FRONT_2020"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j-miiin&repo=LOOKIE_FRONT_2020&theme=moltack" /></a> <a href="https://github.com/j-miiin/Upper_Intermediate_Android_App_2022"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j-miiin&repo=Upper_Intermediate_Android_App_2022&theme=moltack" /></a>
-
-<br></br>
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=j-miiin&show_icons=true&theme=moltack" />
 
