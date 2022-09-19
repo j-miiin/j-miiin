@@ -18,11 +18,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=fff"/> <img src="https://img.shields.io/badge/C%23-FFAFAF?style=flat-square&logo=CSharp&logoColor=fff"/> <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=fff"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=fff"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=fff"/>
 
 <br></br>
-
 ---
-
-<br></br>
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=j-miiin&show_icons=true&theme=moltack" />
 
