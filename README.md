@@ -8,7 +8,7 @@
 <br></br>
 
 ## 🍒 Who Am I? 🍒
-<a href="https://github.com/j-miiin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=fff"/></a> <a href="https://www.notion.so/Who-Am-I-f06b2b2f566c4f899abb4cb280c10fa5"><img src="https://img.shields.io/badge/Portfolio-FFBC97?style=flat-square&logo=Notion&logoColor=fff"/></a> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=august_min)](https://solved.ac/august_min)
+<a href="https://github.com/j-miiin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=fff"/></a> <a href="https://www.notion.so/Who-Am-I-f06b2b2f566c4f899abb4cb280c10fa5"><img src="https://img.shields.io/badge/Portfolio-FFBC97?style=flat-square&logo=Notion&logoColor=fff"/></a> <a href="https://velog.io/@lazypotato"><img src="https://img.shields.io/badge/Velog-F99B7D?style=flat-square&logo=Velog&logoColor=fff"/></a> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=august_min)](https://solved.ac/august_min)
 
 <br></br>
 
