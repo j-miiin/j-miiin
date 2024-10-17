@@ -13,11 +13,9 @@
 <br></br>
 
 ## 🤍 Skill 🤍
-<img src="https://img.shields.io/badge/C%23-FFF?style=flat-square&logo=CSharp&logoColor=000"/> <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=fff"/> <img src="https://img.shields.io/badge/Visual Studio-FFF?style=flat-square&logo=Visual Studio&logoColor=000"/> <img src="https://img.shields.io/badge/Visual Studio Code-000?style=flat-square&logo=Visual Studio Code&logoColor=fff"/>
+<img src="https://img.shields.io/badge/C%23-FFF?style=flat-square&logo=CSharp&logoColor=000"/> <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=fff"/> <img src="https://img.shields.io/badge/VisualStudio-FFF?style=flat-square&logo=Visual Studio&logoColor=000"/>
 
-<img src="https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android-FFF?style=flat-square&logo=Android&logoColor=000"/> <img src="https://img.shields.io/badge/Kotlin-000?style=flat-square&logo=Kotlin&logoColor=fff"/> <img src="https://img.shields.io/badge/Java-FFF?style=flat-square&logo=OpenJDK&logoColor=000"/> <img src="https://img.shields.io/badge/IntelliJ-000?style=flat-square&logo=IntelliJ IDEA&logoColor=fff"/> <img src="https://img.shields.io/badge/Firebase-FFF?style=flat-square&logo=Firebase&logoColor=000"/>
-
-<img src="https://img.shields.io/badge/Python-FFF?style=flat-square&logo=Python&logoColor=000"/> <img src="https://img.shields.io/badge/C-000?style=flat-square&logo=C&logoColor=fff"/> 
+<img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-FFF?style=flat-square&logo=svn&logoColor=000"/> <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=Notion&logoColor=fff"/> <img src="https://img.shields.io/badge/Figma-FFF?style=flat-square&logo=Figma&logoColor=000"/> <img src="https://img.shields.io/badge/Confluence-000?style=flat-square&logo=Confluence&logoColor=fff"/>
 
 <br></br>
 ---
