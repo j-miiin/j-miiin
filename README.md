@@ -20,10 +20,13 @@
 <br></br>
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-miiin&show_icons=true&theme=dark" />
-
-
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/j-miiin"
+  width="600"
+  height="300"
+/>
+</a>
 
 
 </div>
