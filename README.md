@@ -13,7 +13,7 @@
 <br></br>
 
 ## 🧁 Skill 🧁
-<img src="https://img.shields.io/badge/C%23-A2D2DF?style=flat-square&logo=CSharp&logoColor=FFF7C8"/> <img src="https://img.shields.io/badge/Unity-A2D2DF?style=flat-square&logo=Unity&logoColor=FFF7C8"/> <img src="https://img.shields.io/badge/VisualStudio-A2D2DF?style=flat-square&logo=Visual Studio&logoColor=FFF7C8"/>
+<img src="https://img.shields.io/badge/C%23-A2D2DF?style=flat-square&logo=CSharp&logoColor=FFF7C8"/> <img src="https://img.shields.io/badge/Unity-A2D2DF?style=flat-square&logo=Unity&logoColor=FFF7C8"/> <img src="https://img.shields.io/badge/C++-A2D2DF?style=flat-square&logo=Cpp&logoColor=FFF7C8"/>
 
 <img src="https://img.shields.io/badge/Git-A2D2DF?style=flat-square&logo=github&logoColor=FFF7C8"/> <img src="https://img.shields.io/badge/SVN-A2D2DF?style=flat-square&logo=svn&logoColor=FFF7C8"/> <img src="https://img.shields.io/badge/Notion-A2D2DF?style=flat-square&logo=Notion&logoColor=FFF7C8"/> <img src="https://img.shields.io/badge/Figma-A2D2DF?style=flat-square&logo=Figma&logoColor=FFF7C8"/> <img src="https://img.shields.io/badge/Confluence-A2D2DF?style=flat-square&logo=Confluence&logoColor=FFF7C8"/>
 
